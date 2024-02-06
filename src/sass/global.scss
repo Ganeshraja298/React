@@ -1,0 +1,224 @@
+
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+$primary-color: #e71c24;
+$secondary-color: #5de0fd;
+$tertiary-color: #c4f1fd;
+$White:#ffffff;
+$border:#c4cdcfbf;
+$background:#c4cdcfbf;
+:root{
+  --primary-color: #e71c24;
+  --secondary-color: #5de0fd;
+  --tertiary-color: ##f2fcff;
+  --white:#ffffff;
+  --border-gray:1px solid #f2f3f4;
+  --background: #f2fcff;
+}
+/* Tags */
+*{
+    font-family: 'Inter', sans-serif; 
+  }
+  h1,h2,h3,h4,h5,h6{
+    margin: 0;
+  }
+  link,a{
+    text-decoration: none;
+  }
+  ::-webkit-scrollbar{
+    height: 5px;
+    width: 5px;
+}
+// ::-webkit-scrollbar-thumb{
+//   color: 
+//   var(--primary-color);
+//   background-color: 
+//   var(--primary-color);
+// }
+  link:hover,a:hover{
+    color: 
+    var(--primary-color) !important;
+ }
+ input:focus{
+  border: none;
+  border-bottom: 1px  solid #757575;
+ }
+  /* Main Class */
+  .d_flex{
+    display: flex;
+    align-items: center;
+  }
+  .d_flex_s{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .just-s{
+    justify-content: space-between;
+  }
+  .just-c{
+    justify-content: center;
+  }
+  .just-e{
+    justify-content: flex-end;
+  }
+  .mouse{
+    cursor: pointer;  
+  }
+  .primary_color{
+    color: 
+    var(--primary-color);
+  }
+  // buttons
+  .primary_button{
+    background-color: var(--primary-color) !important;
+    color: var(--white)!important;
+    border-radius: 5px!important;
+  }
+  .secondary_button{
+    background-color: var(--white) !important;
+    color: var(--primary-color)!important;
+    border: 1px solid var(--primary-color);
+  }
+  button:focus, input:focus{
+    outline: none;
+  }
+  input:focus{
+    border-bottom: 1px solid;
+  }
+  .btn{
+    background-color: 
+    var(--primary-color) !important;
+    font-size: 12px !important;
+  }   
+
+/* Header */
+@media only screen and (max-width:600px){
+  .header_link{
+    display: none;
+  }
+}
+  .header_container{
+    position: sticky;
+    top: 0px;
+    background-color:var(--white);
+    z-index: 90;
+
+  }
+  .user_batch{
+    height: 30px;
+    width: 30px;
+    background-color: var(--tertiary-color);
+    color: var(--primary-color);
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+  }
+  
+  /* ProductList */
+  
+  .box{
+    flex-wrap: wrap ;
+    width: 100%;
+  }
+  .slide{
+    width:100%;
+    height: max-content;
+    overflow:auto;
+    text-align: center;
+    margin: auto;
+  }
+  .add_icon{
+    padding: 5px;
+    border:1px  solid #757575;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: 
+    var(--primary-color);
+    color: #ffffff;
+  }
+  // card
+  .member_card{
+    border: 1px  solid #757575 !important;
+    margin: 10px;
+    flex: 0 0 calc(20% - 10px);
+    border-radius: 10px;
+    overflow: hidden;
+    height: 270px;
+  }
+  // login
+  .login_container{
+    background-color: var(--tertiary-color);
+    min-height: calc(100vh - 50px);
+    .auth_card{
+      flex: 0 0 40%;
+      margin: auto;
+      padding: 20px;
+      min-height: 400px;
+    }
+    .auth_form{
+      // gap: 20px;
+      // p,label{
+      // }
+      margin-top: 20px;
+      label{
+        justify-content: center;
+      }
+      input{
+        border: none;
+        border-bottom: 1px solid #f3f3f3;
+        margin-bottom: 20px;
+        flex: 0 0 calc(80% - 20px);
+      }
+    }
+    .nav_login_div{
+      border-radius: 20px;
+      border:1px solid $border;
+      overflow: hidden;
+      .nav_login{
+        padding: 3px 5px;
+        border-radius: 20px;
+        min-width: 70px;
+        text-align: center;
+      }
+      .nav_login.active{
+         color: var(--white);
+         background-color: $primary-color;
+      }
+    }
+    
+  }
+  // corousal
+  .image_slider_class{
+     height: 80vh;
+  }
+  // Globals
+  image-gallery-content .image-gallery-slide .image-gallery-image {
+    max-height: calc(80vh - 80px)!important;
+}
+
+.card{
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.slider_arrow{
+  padding: 7px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  height: 30px;
+  width: 30px;
+}
+
+.card_1{
+ background-color: #fbd5ff;
+}
+.card_2{
+  background-color: #e7ffd5;
+ }
+ .card_3{
+  background-color: #d5fbff;
+ }
+ .card_4{
+  background-color: #ffd5d5;
+ }

@@ -1,0 +1,150 @@
+{
+
+    "side_menu": null,
+    "list_content": null,
+    "list_style": null,
+    "page_type": "Regular",
+    "page_content": [
+        {
+            "section_name": "Image",
+            "alt":"Interior",
+            "image":"https://www.thlproducts.com/wp-content/themes/todayshomeandleisureproductsinc1/images/inner-banner.jpg",
+            "class_name":"lg:h-[600px] h-[250px]"
+          },
+          {
+            "back_image": "",
+            "bg_image": "/images/vision.jpg",
+            "class_name": "kclscpul",
+            "content": "",
+            "content_type": "",
+            "data":[{
+                "count":10,
+                "class":"card_1",
+                "image":"https://c0.wallpaperflare.com/preview/423/32/865/adult-beard-blur-books.jpg",
+                "thumbnail":"../../assets/gallary/IMG-20231018-WA0003.jpg",
+                "title":"Peter Parker",
+                "sub_title":"CEO",
+                "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+                "social_links":{
+                    "instagram":"#",
+                    "linkedin":"#",
+                    "facebook":"#",
+                    "twitter":"#"
+                }
+                },{
+                "count":500,
+                "class":"card_2",
+                "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+                "image":"https://images.pexels.com/photos/2381069/pexels-photo-2381069.jpeg?cs=srgb&dl=pexels-emmy-e-2381069.jpg&fm=jpg",
+                "title":"Janrthanan",
+                "sub_title":"HR",
+                "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+                "social_links":{
+                    "instagram":"#",
+                    "linkedin":"#",
+                    "facebook":"#",
+                    "twitter":"#"
+                }
+            },{
+                "count":100,
+                "class":"card_3",
+                "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+                "image":"https://www.achievers.com/wp-content/uploads/2020/05/05-27-20-2.jpg",
+                "title":"Anjelina Jolie",
+                "sub_title":"Project Manger",
+                "social_links":{
+                    "instagram":"#",
+                    "linkedin":"#",
+                    "facebook":"#",
+                    "twitter":"#"
+                },
+                "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    
+            },{
+                "count":200,
+                "class":"card_4",
+                "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+                "image":"https://img.freepik.com/free-photo/young-business-woman-working-laptop-office_1303-22814.jpg",
+                "title":"Regina Casendra",
+                "sub_title":"Designer",
+                "social_links":{
+                    "instagram":"#",
+                    "linkedin":"#",
+                    "facebook":"#",
+                    "twitter":"#"
+                },
+                "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    
+            }],
+            "dynamic_data": 1,
+            "front_image": "/files/IRS Refunds (1)-01.svg",
+            "is_full_width": 0,
+            "layout_json": null,
+            "login_required": 0,
+            "mobile_app_template": null,
+            "no_of_records": 0,
+            "reference_document": null,
+            "section": "PS-23-00007",
+            "section_name": "Our Team",
+            "section_type": "Static Section",
+            "sub_title": "",
+            "title": "Meet The Team",
+            "title1": "",
+            "title2": "",
+            "view_more_redirect_to": null,
+            "view_type": ""
+          },
+      {
+        "back_image": "",
+        "bg_image": "/images/vision.jpg",
+        "class_name": "kclscpul",
+        "content": "",
+        "content_type": "",
+        "data":[{
+            "count":10,
+            "class":"card_1",
+            "original":"../../assets/gallary/IMG-20231018-WA0003.jpg",
+            "thumbnail":"../../assets/gallary/IMG-20231018-WA0003.jpg",
+            "title":"Employees"
+        },{
+            "count":500,
+            "class":"card_2",
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "original":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "title":"Pojects"
+
+        },{
+            "count":100,
+            "class":"card_3",
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "original":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "title":"Clients"
+
+        },{
+            "count":200,
+            "class":"card_4",
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "original":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "title":"Developing cases"
+
+        }],
+        "dynamic_data": 1,
+        "front_image": "/files/IRS Refunds (1)-01.svg",
+        "is_full_width": 0,
+        "layout_json": null,
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "section": "PS-23-00007",
+        "section_name": "Counters",
+        "section_type": "Static Section",
+        "sub_title": "",
+        "title": "About Us & Our Work",
+        "title1": "",
+        "title2": "",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      }
+    ]
+  }

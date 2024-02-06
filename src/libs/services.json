@@ -1,0 +1,59 @@
+{
+    "side_menu": null,
+    "list_content": null,
+    "list_style": null,
+    "page_type": "Regular",
+    "page_content": [
+        {
+            "section_name": "Image",
+            "alt":"Interior",
+            "image":"https://png.pngtree.com/background/20210711/original/pngtree-meter-gray-home-improvement-custom-effect-chart-banner-picture-image_1080169.jpg",
+            "class_name":"lg:h-[600px] h-[250px]"
+          },
+      {
+        "back_image": "",
+        "bg_image": "/images/vision.jpg",
+        "class_name": "kclscpul",
+        "content": "",
+        "content_type": "",
+        "data":[{
+            "original":"https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1663579184/1663579182.jpg",
+            "image":"https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1663579184/1663579182.jpg",
+            "content":"Quality as our lifeline and Customer's demand as our motivation, Innovation And Transformation as part of our development",
+            "title":"Robert Brown",
+            "description":"Amattur,Chennai-24"
+        },{
+            "image":"https://images.pexels.com/photos/2381069/pexels-photo-2381069.jpeg?cs=srgb&dl=pexels-emmy-e-2381069.jpg&fm=jpg",
+            "original":"https://images.pexels.com/photos/2381069/pexels-photo-2381069.jpeg?cs=srgb&dl=pexels-emmy-e-2381069.jpg&fm=jpg",
+            "content":"Innovation And Transformation as part of our development",
+            "title":"Bruce Banner",
+            "description":"Velachery,Chennai-21"
+
+        },{
+            "image":"https://www.achievers.com/wp-content/uploads/2020/05/05-27-20-2.jpg",
+            "original":"https://www.achievers.com/wp-content/uploads/2020/05/05-27-20-2.jpg",
+            "content":"We Are Market Leader and take that responsibility seriously",
+            "title":"Tony Stark",
+            "description":"Guindy,Chennai-29"
+
+        }],
+        "dynamic_data": 1,
+        "front_image": "/files/IRS Refunds (1)-01.svg",
+        "is_full_width": 0,
+        "layout_json": null,
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "section": "PS-23-00007",
+        "section_name": "Testimonials",
+        "section_type": "Static Section",
+        "sub_title": "",
+        "title": "What Our Clients Say",
+        "title1": "",
+        "title2": "",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      }
+    ]
+  }

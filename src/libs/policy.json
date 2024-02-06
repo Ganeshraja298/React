@@ -1,0 +1,102 @@
+{
+
+    "side_menu": null,
+    "list_content": null,
+    "list_style": null,
+    "page_type": "Regular",
+    "page_content": [
+        {
+            "section_name": "Image",
+            "alt":"Interior",
+            "image":"https://png.pngtree.com/background/20210711/original/pngtree-meter-gray-home-improvement-custom-effect-chart-banner-picture-image_1080169.jpg",
+            "class_name":"lg:h-[600px] h-[250px]"
+          },
+      {
+        "back_image": "",
+        "bg_image": "/images/vision.jpg",
+        "class_name": "kclscpul",
+        "content": "",
+        "content_type": "",
+        "data":[{
+            "original":"../../assets/gallary/IMG-20231018-WA0003.jpg",
+            "thumbnail":"../../assets/gallary/IMG-20231018-WA0003.jpg",
+            "title":"Quality as our lifeline and Customer's demand as our motivation"
+        },{
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "original":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "title":"Innovation And Transformation as part of our development"
+
+        },{
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "original":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "title":"We Are Market Leader and take that responsibility seriously"
+
+        },{
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "original":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "title":"Our Ultimate Goal to keep our customers happy"
+
+        }],
+        "dynamic_data": 1,
+        "front_image": "/files/IRS Refunds (1)-01.svg",
+        "is_full_width": 0,
+        "layout_json": null,
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "section": "PS-23-00007",
+        "section_name": "Right Content Left Image",
+        "section_type": "Static Section",
+        "sub_title": "",
+        "title": "Our Vision",
+        "title1": "",
+        "title2": "",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      },
+      {
+        "back_image": "",
+        "bg_image": "/images/policy.jpg",
+        "class_name": "kclscpul",
+        "content": "",
+        "content_type": "",
+        "data":[{
+            "original":"../../assets/gallary/IMG-20231018-WA0003.jpg",
+            "thumbnail":"../../assets/gallary/IMG-20231018-WA0003.jpg",
+            "title":"Our Clients are our main Customers"
+        },{
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "original":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "title":"We are very much concerned to meet our customer needs for their fullest satisfaction"
+
+        },{
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "original":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "title":"Our company quality policy is also is in line with customer satisfaction"
+
+        },{
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "original":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "title":"We are ommited to supply installation and commissioning of required quality"
+        }],
+        "dynamic_data": 1,
+        "front_image": "/files/IRS Refunds (1)-01.svg",
+        "is_full_width": 0,
+        "layout_json": null,
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "section": "PS-23-00007",
+        "section_name": "Left Content Right Image",
+        "section_type": "Static Section",
+        "sub_title": "",
+        "title": "Our Policy",
+        "title1": "",
+        "title2": "",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      }
+    ]
+  }

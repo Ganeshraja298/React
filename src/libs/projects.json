@@ -1,0 +1,70 @@
+{
+
+    "side_menu": null,
+    "list_content": null,
+    "list_style": null,
+    "page_type": "Regular",
+    "page_content": [
+        {
+            "section_name": "Image",
+            "alt":"Interior",
+            "image":"https://www.nationaltenders.com/images/users/1469531496_banner5.jpg",
+            "class_name":"lg:h-[600px] h-[250px]"
+          },
+      {
+        "back_image": "",
+        "bg_image": "/images/vision.jpg",
+        "class_name": "kclscpul",
+        "content": "",
+        "content_type": "",
+        "data":[{
+            "image":"/projects/image-049.jpg",
+            "thumbnail":"../../assets/gallary/IMG-20231018-WA0003.jpg",
+            "title":"LT Installation"
+        },{
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "image":"/projects/image-050.jpg",
+            "title":"IT Installation"
+
+        },{
+            "thumbnail":"/projects/image-049.jpg",
+            "image":"/projects/image-084.jpg",
+            "title":"Solar Power Installation"
+
+        },{
+            "thumbnail":"/projects/image-049.jpg",
+            "image":"/projects/image-085.jpg",
+            "title":"Industrial Executions"
+
+        },
+        {
+            "thumbnail":"/projects/image-049.jpg",
+            "image":"/projects/image-086.jpg",
+            "title":"Designing"
+
+        },{
+            "thumbnail":"/projects/image-049.jpg",
+            "image":"/projects/image-087.jpg",
+            "title":"Resdental"
+
+        }],
+        "dynamic_data": 1,
+        "front_image": "/files/IRS Refunds (1)-01.svg",
+        "is_full_width": 0,
+        "layout_json": null,
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "section": "PS-23-00007",
+        "section_name": "Images With Text",
+        "section_type": "Static Section",
+        "sub_title": "",
+        "title": "Projects We Have Done",
+        "title1": "",
+        "title2": "",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      }
+    ]
+  }

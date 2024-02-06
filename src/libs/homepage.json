@@ -1,0 +1,1015 @@
+{
+    "sub_header": {
+      "enabled": 1,
+      "sub_header_title": null,
+      "sub_header_bg_color": null,
+      "sub_header_bg_img": null,
+      "is_transparent": null,
+      "text_color": "#FFFFFF",
+      "page_title_overlay": null,
+      "title_text_align": "Left",
+      "container_max_width": null,
+      "enable_breadcrumbs": null
+    },
+    "side_menu": null,
+    "list_content": null,
+    "list_style": null,
+    "page_type": "Regular",
+    "page_content": [
+      {
+        "section_name": "Image",
+        "alt":"Interior",
+        "image":"https://indiater.com/wp-content/uploads/2021/09/furniture-and-interior-detail-store-promotion-sale-ads-banner-on-yellow-floor-and-background.jpg",
+        "class_name":"lg:h-[600px] h-[250px]"
+      },
+      {
+        "back_image": "",
+        "bg_image": "https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+        "btn": "{\"btn_text\":\"Get Full Service for $99 Only\",\"btn_redirect_url\":\"/p/pricing\"}",
+        "btn1": "{\"btn_text\":\"\",\"btn_redirect_url\":\"\"}",
+        "class_name": "kclscpul",
+        "content": "Guaranteed, your committed tax professional will locate every amount you are due.\r\n",
+        "content_type": "",
+        "dynamic_data": 1,
+        "front_image": "/files/IRS Refunds (1)-01.svg",
+        "is_full_width": 0,
+        "layout_json": null,
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "section": "PS-23-00007",
+        "section_name": "Content with slid",
+        "section_type": "Static Section",
+        "sub_title": "Lorem Ipsum  ",
+        "title": "Lorem Ipsum is simply dummy text of the",
+        "title1": " printing",
+        "title2": "and typesetting industry.",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      },
+      {
+        "btn": "{\"btn_text\":\"Get Full Service for $99 Only\",\"btn_redirect_url\":\"/p/pricing\"}",
+        "class_name": "sqaqqqub",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "content_type": "",
+        "dynamic_data": 0,
+        "is_full_width": 0,
+        "layout_json": null,
+        "left_image": "https://cdn.pixabay.com/photo/2019/05/16/18/16/musician-4207759_1280.png",
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "section": "PS-23-00012",
+        "section_name": "Right Content Left I",
+        "section_type": "Static Section",
+        "title": "Lorem Ipsum is simply dummy text of the",
+        "title1": " printing",
+        "title2": "printing and typesetting industry.",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      },
+      {
+        "btn": "{\"btn_text\":\"Get Full Service for $99 Only\",\"btn_redirect_url\":\"/p/pricing\"}",
+        "class_name": "qovktayt",
+        "content": "Work with a person you come to know and trust so they can guide you in making the greatest choices for your circumstances. You can even ask them to prepare your taxes again the following year.",
+        "content_type": "",
+        "dynamic_data": 0,
+        "data":[
+          {
+              "image":"/why_us/cost_effective.jpg",
+              "title":"Cost Effective"
+          },
+          {
+              "image":"/why_us/safe_secure.jpg",
+              "title":"Safe And Secure"
+          },
+      {
+              "image":"/why_us/experienced.jpg",
+              "title":"Experienced"
+          },
+          {
+              "image":"/why_us/team_timely1.jpg",
+              "title":"Team Timely"
+          }
+      ],
+        "is_full_width": 1,
+        "layout_json": null,
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "right_image": "https://cdn.pixabay.com/photo/2020/11/28/03/19/iron-man-5783522_1280.png",
+        "section": "PS-23-00009",
+        "section_name": "Why Us",
+        "section_type": "Static Section",
+        "subtitle": "",
+        "title": "Why SR Enterprises?",
+        "title1": "printing",
+        "title2": " printing and typesetting industry.",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      },
+      {
+        "btn": "{\"btn_text\":\"Get Full Service for $99 Only\",\"btn_redirect_url\":\"/p/pricing\"}",
+        "class_name": "cmokctky", 
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "content_type": "",
+        "data1":[{"title":"LT Installation","image":"/icons/approve_8731489.png"},
+        {"title":"IT Installation","image":"/icons/approve_8731489.png"},{"title":"Captive Power Installation","image":"/icons/approve_8731489.png"},
+        {"title":"Solar Power Installation","image":"/icons/approve_8731489.png"},{"title":"Residential & Group housing Installation","image":"/icons/approve_8731489.png"},
+        {"title":"Industrial Executions","image":"/icons/approve_8731489.png"},{"title":"Anual Maintenance Contracts","image":"/icons/approve_8731489.png"}],
+        "data2":[{"title":"Designing","image":"/icons/approve_8731489.png"},
+        {"title":"Corporate Models","image":"/icons/approve_8731489.png"},{"title":"Resdental","image":"/icons/approve_8731489.png"},
+        {"title":"Execution Of Customised Designs","image":"/icons/approve_8731489.png"},{"title":"Industrial Executions","image":"/icons/approve_8731489.png"},
+        {"title":"Turnkey Executions","image":"/icons/approve_8731489.png"}],
+        "dynamic_data": 0,
+        "is_full_width": 0,
+        "layout_json": null,
+        "left_image": "https://cdn.pixabay.com/photo/2021/08/21/16/31/captain-america-6563214_1280.png",
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "section": "PS-23-00013",
+        "section_name": "Service List",
+        "section_type": "Static Section",
+        "title": "Solutions We Have",
+        "title1": "Electrical Contacting",
+        "title2": "Interiors",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      },
+      {
+        "btn": "{\"btn_text\":\"\",\"btn_redirect_url\":\"\"}",
+        "class_name": "yglxzayd",
+        "content": "",
+        "content_type": "",
+        "dynamic_data": 0,
+        "is_full_width": 1,
+        "layout_json": null,
+        "data": [
+          {
+            "image": "/projects/image-049.jpg",
+            "idx": 1          },
+          {
+            "image": "/projects/image-050.jpg",
+            "idx": 2          },
+          {
+            "image": "/projects/image-084.jpg",
+            "idx": 3          },
+          {
+            "image": "/projects/image-085.jpg",
+            "idx": 4          },
+          {
+            "image": "/projects/image-086.jpg",
+            "idx": 4          },
+          {
+            "image": "/projects/image-087.jpg",
+            "idx": 4          }
+        ],
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "right_image": "/files/5bb2d6894f_Christopher_560.png",
+        "section": "PS-23-00018",
+        "section_name": "Custom Slider",
+        "section_type": "Static Section",
+        "subtitle": "",
+        "title": "Our Executed Projects",
+        "title1": "Simple Steps",
+        "title2": "",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      },
+      {
+        "btn": "{\"btn_text\":\"\",\"btn_redirect_url\":\"\"}",
+        "class_name": "yglxzayd",
+        "content": "",
+        "content_type": "",
+        "dynamic_data": 0,
+        "is_full_width": 1,
+        "layout_json": null,
+        "data": [
+          {
+            "image": "/clients/image-146.jpg",
+            "idx": 1
+          },
+          {
+            "image": "/clients/image-149.jpg",
+            "idx": 2
+          },
+          {
+            "image": "/clients/image-150.jpg",
+            "idx": 3
+          },
+          {
+            "image": "/clients/image-153.jpg",
+            "idx": 4
+          },
+          {
+            "image": "/clients/image-154.jpg",
+            "idx": 4
+          },
+          {
+            "image": "/clients/image-158.jpg",
+            "idx": 4
+          },
+          {
+            "image": "/clients/image-159.jpg",
+            "idx": 4
+          },
+          {
+            "image": "/clients/image-160.jpg",
+            "idx": 4
+          },
+          {
+            "image": "/clients/image-161.jpg",
+            "idx": 4
+          },
+          {
+            "image": "/clients/image-167.jpg",
+            "idx": 4
+          },
+          {
+            "image": "/clients/image-163.jpg",
+            "idx": 4
+          },
+          {
+            "image": "/clients/image-168.jpg",
+            "idx": 4
+          }
+        ],
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "right_image": "/files/5bb2d6894f_Christopher_560.png",
+        "section": "PS-23-00018",
+        "section_name": "Clients",
+        "section_type": "Static Section",
+        "subtitle": "",
+        "title": "Our Happy Clients",
+        "title1": "Simple Steps",
+        "title2": "",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      },
+      {
+        "btn": "{\"btn_text\":\"Register Now\",\"btn_redirect_url\":\"/register\"}",
+        "class_name": "ilyfkujr",
+        "content_type": "",
+        "dynamic_data": 1,
+        "is_full_width": 1,
+        "layout_json": null,
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "price": "99",
+        "pricetext": "State additional",
+        "pricetitle": "Full Service",
+        "reference_document": null,
+        "section": "PS-23-00046",
+        "section_name": "Pricing",
+        "section_type": "Static Section",
+        "subtitle": "Home, charitable, and unemployment income deductions",
+        "title": "We have a Product that’s Right for ",
+        "title1": "your Situation",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      },
+      {
+        "section": "PS-23-00023",
+        "class_name": "daqlqyjs",
+        "section_name": "Testimonials Style 7",
+        "section_type": "Custom Section",
+        "content_type": "",
+        "reference_document": "Testimonial",
+        "no_of_records": 15,
+        "view_type": "",
+        "view_more_redirect_to": null,
+        "mobile_app_template": null,
+        "login_required": 0,
+        "dynamic_data": 1,
+        "is_full_width": 0,
+        "layout_json": null,
+        "reference_name": null,
+        "data": [
+          {
+            "name": "TSM-00006",
+            "creation": "2022-08-08 19:55:23.188850",
+            "modified": "2023-01-23 18:21:30.300711",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "title": "Awesome Tax Service",
+            "posted_by": "Admin",
+            "image": "/files/test2.png",
+            "name1": "Samantha",
+            "role": "Alpharetta GA",
+            "company_logo": "",
+            "content": "It's the best app to do your Taxes , there are experts you could connect In case of any difficulties.",
+            "naming_series": "TSM-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "TSM-00005",
+            "creation": "2022-08-16 19:20:52.284625",
+            "modified": "2023-01-23 19:07:44.934632",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "title": "Great Assistance ",
+            "posted_by": "Admin",
+            "image": "/files/Maskgroup.png",
+            "name1": "Amanda",
+            "role": "Boston MA",
+            "company_logo": "",
+            "content": "Another year of great assistance from 99Tax. It made my filing precise and easy to follow.",
+            "naming_series": "TSM-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "TSM-00004",
+            "creation": "2022-08-16 19:21:12.505544",
+            "modified": "2023-01-23 18:55:22.572176",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "title": "Super Simple",
+            "posted_by": "Admin",
+            "image": "/files/101.png",
+            "name1": "Dinesh ",
+            "role": "Pleasanton CA",
+            "company_logo": "",
+            "content": "The process was so simple. I did my taxes from start to finish in under 10 minutes! ",
+            "naming_series": "TSM-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "TSM-00003",
+            "creation": "2022-08-16 19:21:33.461262",
+            "modified": "2023-01-21 18:16:52.607569",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "title": "Helpful",
+            "posted_by": "Admin",
+            "image": "/files/Mask1.png",
+            "name1": "Tony",
+            "role": "Boston MA",
+            "company_logo": "",
+            "content": "You're, to may winged without they're moving wherein created light in without night bring all ",
+            "naming_series": "TSM-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          }
+        ],
+        "fetch_product": 0,
+        "title": "When customers reviewed 99Tax Live Full Service last year, 86% of them rated us five stars",
+        "reviewtitle": "Obtaining a five-star rating from customers",
+        "reviewvalue": "(4.6/5 | 75,910)"
+      },
+      {
+        "class_name": "uzlrtrwx",
+        "content_type": "",
+        "dynamic_data": 0,
+        "iconcard": [
+          {
+            "card_description": "To increase your tax refund, we'll look for every tax break and credit you're eligible for.",
+            "card_title": "We look up hundreds of tax breaks",
+            "icon1": "/files/icon1.svg",
+            "idx": 1
+          },
+          {
+            "card_description": "If you don't obtain every penny you're due, your tax professional won't sign and file your return.",
+            "card_title": "Our Full Service Guarantee is in place.",
+            "icon1": "/files/icon2.svg",
+            "idx": 2
+          },
+          {
+            "card_description": "We guarantee that the computations on your tax return are 100% accurate or we'll cover any IRS fines.",
+            "card_title": "100% accurate calculations",
+            "icon1": "/files/icon3.svg",
+            "idx": 3
+          }
+        ],
+        "is_full_width": 1,
+        "layout_json": null,
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "section": "PS-23-00032",
+        "section_name": "3 Colum Card",
+        "section_type": "Static Section",
+        "subtitle": "File with confidence knowing that America's top-rated tax preparation company has your back.\nThese warranties are attached to each and every 99tax Live tax return.",
+        "title": "Your Fulfilment is Ensured",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      },
+      {
+        "section": "PS-23-00026",
+        "class_name": "suxhlkpr",
+        "section_name": "FAQ Style 7",
+        "section_type": "Custom Section",
+        "content_type": "",
+        "reference_document": "FAQ",
+        "no_of_records": 15,
+        "view_type": "",
+        "view_more_redirect_to": null,
+        "mobile_app_template": null,
+        "login_required": 0,
+        "dynamic_data": 1,
+        "is_full_width": 1,
+        "layout_json": null,
+        "reference_name": null,
+        "data": [
+          {
+            "name": "FAQ-00019",
+            "creation": "2023-01-18 17:53:52.380782",
+            "modified": "2023-01-18 17:53:52.380782",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "What is a Full Service assistant or tax prep assistant?",
+            "answer": "Our Live Full Service welcome call is handled by a team of specialists who are here to answer your questions about the product, help you understand next steps, and aid you in gathering all of your documents before initiating your expert match.",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00018",
+            "creation": "2023-01-18 17:53:34.165265",
+            "modified": "2023-01-18 17:53:34.165265",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "Can I use the same tax expert next year?",
+            "answer": "Yes, you may request the same Live Full Service Expert you worked with in previous tax years.",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00017",
+            "creation": "2023-01-18 17:53:07.844624",
+            "modified": "2023-01-18 17:53:07.844624",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "Will my expert be there to help me year-round?",
+            "answer": "Tax experts are available year-round for questions and tax advice, but you may not be connected with the specific tax expert who prepared your tax return.",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00016",
+            "creation": "2023-01-18 17:52:34.558480",
+            "modified": "2023-01-18 17:52:34.558480",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "Is there any type of guarantee if I get audited?",
+            "answer": "Yes. We offer free one-on-one audit guidance year-round from our experienced and knowledgeable tax staff. We’ll let you know what to expect and how to prepare in the unlikely event you receive an audit letter from the IRS.\n\nIf you’ve already received a letter from the IRS for a return you filed with 99Tax, please review our Audit Support Guarantee for instructions on how to receive FREE step–by–step audit guidance and the option to connect with an expert.\n\nWe also offer full audit representation for an additional fee with 99Tax Audit Defense.",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00015",
+            "creation": "2023-01-18 17:51:50.104984",
+            "modified": "2023-01-18 17:51:50.104984",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "Can my fees/price change?",
+            "answer": "We do our best to make sure you start with the right product to cover your tax situation, but it’s possible that we’ll uncover something along the way that requires you to upgrade your version of 99Tax. For example, if you started in our Free Edition, but we later learn you had investment sales (not covered in Free Edition), we’ll ask you to upgrade to cover your investment sales. Prices for paid products are determined based on the product you use and the time of print or e-file and are subject to change without notice. Special discount offers may not be valid for mobile in-app purchases.\n\nYour price could also change if you decide to upgrade your service level and add expert help, or if you choose to add other services like Audit Defense.\n\n",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00014",
+            "creation": "2023-01-18 17:50:41.225152",
+            "modified": "2023-01-18 17:50:41.225152",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "How are fees/prices determined?",
+            "answer": "Two factors determine the pricing for 99Tax: the complexity of your tax return and the level of service you choose (DIY, Live Assisted, or Live Full Service). More complicated tax situations and higher levels of tax expert services will cost more.\n\nIf you choose to add other services (like Audit Defense), there may be additional fees.\n\nWe’ll always let you know how much you can expect to pay, and we’ll ask for your consent before any products or services are added.\n\nYou can review your fees along the way at any time and will see a full balance of your charges before you choose to pay and file your taxes.\n\n\n",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00013",
+            "creation": "2023-01-18 17:49:40.628776",
+            "modified": "2023-01-18 17:49:40.628776",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "How long will the process take?",
+            "answer": "The time it takes to prepare your return depends on the complexity of your taxes, your availability, seasonal peak days for tax preparation, and how busy our experts are. Our goal is to get your taxes done with as little waiting as possible. When you’re ready to start, we’re ready to take taxes off your plate.",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00012",
+            "creation": "2023-01-18 17:49:16.557566",
+            "modified": "2023-01-18 17:55:14.421092",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "How will my documents be securely transferred to my tax expert?",
+            "answer": "Our software allows you to securely upload your tax documents to our system so they’re available to your tax expert. You may be able to import them directly from your employer or your financial institutions, or you can snap photos of the documents and upload them to 99Tax. We use bank-level encryption technology to ensure your information is protected.",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00011",
+            "creation": "2023-01-18 17:48:47.515585",
+            "modified": "2023-01-18 17:48:47.515585",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "Will the tax expert understand my personal tax situation/complexities?",
+            "answer": "We use information about your tax situation to match you with an expert who has experience with taxes like yours. During the process, they’ll also learn more about your unique situation so they can make sure your taxes are 100% correct before filing.",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00010",
+            "creation": "2023-01-18 17:48:21.692187",
+            "modified": "2023-01-18 17:54:58.483825",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "What do I need to do to prepare?",
+            "answer": "After starting in Live Full Service, we’ll ask you some questions to learn about your tax situation and create a personalized tax planner for you. This tax planner helps you know what docs you’ll need so you can gather them and start uploading them to your 99Tax account.",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00009",
+            "creation": "2023-01-18 17:47:57.697807",
+            "modified": "2023-01-18 17:47:57.697807",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "What’s the process like?",
+            "answer": "After choosing Live Full Service, we’ll ask you some questions to learn about your tax situation. We’ll create your personalized tax planner to start collecting the right docs and securely upload them to your account. Then you’ll have a welcome call with a tax prep assistant who can help you finish uploading your docs and match you with a dedicated tax expert. If you don’t want to get started right away, you can schedule a call for a time that works best for you.\n\nWhen you’re ready to connect with your tax expert, you can talk to them over the phone or on a one-way video call. They’ll ask questions, get the details they need, and prepare your return. After they’ve completed your tax return, they’ll review it with you and answer any questions you may have. When you’re ready to file and pay, they’ll sign and file your taxes on your behalf.\n\n",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00008",
+            "creation": "2023-01-18 17:47:36.541724",
+            "modified": "2023-01-18 17:47:36.541724",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "Can I choose which tax expert I work with?",
+            "answer": "We’ll use information about your tax situation, where you live, and more to match you with the right tax expert to handle your taxes. If at any time you want to be matched to a new expert, you can inform your current expert and they’ll help you get reassigned.",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00007",
+            "creation": "2023-01-18 17:47:18.533517",
+            "modified": "2023-01-18 17:47:18.533517",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "How am I matched with my tax expert?",
+            "answer": "With Live Full Service, we’ll start by asking you questions about your tax situation. This can be done online, or with the help of a live tax preparation assistant. We’ll use what you tell us to match you with a tax expert who understands your situation, has relevant expertise, and is in a relevant location.",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00006",
+            "creation": "2023-01-18 17:46:57.922924",
+            "modified": "2023-01-18 17:46:57.922924",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "What qualifications do the tax experts have?",
+            "answer": "Our team of US-based tax experts have extensive experience and internal training. They can handle all kinds of tax situations, from simple to complex. They’ll guarantee your taxes are done right, with every dollar you deserve.\n\nWhen you connect live with an expert, you’ll see their specific credentials.",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          },
+          {
+            "name": "FAQ-00005",
+            "creation": "2022-08-16 19:18:57.031856",
+            "modified": "2023-01-18 17:46:28.598226",
+            "modified_by": "Administrator",
+            "owner": "Administrator",
+            "docstatus": 0,
+            "idx": 0,
+            "faq_category": null,
+            "question": "Can I see the tax expert?",
+            "answer": "Yes, if you choose a one-way video with your tax expert, you’ll be able to see them on your screen.",
+            "naming_series": "FAQ-",
+            "_user_tags": null,
+            "_comments": null,
+            "_assign": null,
+            "_liked_by": null
+          }
+        ],
+        "fetch_product": 0,
+        "title": "Frequently Asked",
+        "title1": "Questions",
+        "sub_title": "FAQ's",
+        "email_title": "Couldn't find what you were looking for ?\nwrite to us at",
+        "email": "info@99tax.com"
+      }
+    ],
+    "header_content": {
+      "is_transparent_header": 0,
+      "title": "99Tax Website Header",
+      "is_menu_full_width": 0,
+      "layout_json": "[{\"fullwidth\":true,\"columns\":[{\"width\":\"20%\",\"rows\":[]},{\"width\":\"60%\",\"rows\":[]},{\"width\":\"20%\",\"rows\":[]}]}]",
+      "enable_top_menu": 0,
+      "sticky_on_top": 0,
+      "is_dismissable": 0,
+      "layout": "One Column",
+      "sticky_header": 1,
+      "call_to_action_button": 1,
+      "button_text": "Get Started",
+      "button_link": "#",
+      "link_target": "_self",
+      "sticky_header_background": "#ffffff",
+      "menu_text_color": "#000000",
+      "items": [
+        {
+          "class_name": "fuvrextx",
+          "column_index": 0,
+          "content_type": "",
+          "dynamic_data": 1,
+          "is_full_width": 0,
+          "layout_json": null,
+          "login_required": 0,
+          "mobile_app_template": null,
+          "no_of_records": 0,
+          "reference_document": null,
+          "section": "PS-22-00016",
+          "section_name": "Header Logo",
+          "section_type": "Static Section",
+          "view_more_redirect_to": null,
+          "view_type": ""
+        },
+        {
+          "class_name": "jkjcrroz",
+          "column_index": 1,
+          "content_type": "",
+          "dynamic_data": 1,
+          "is_full_width": 0,
+          "layout_json": null,
+          "login_required": 0,
+          "mobile_app_template": null,
+          "no_of_records": 0,
+          "reference_document": null,
+          "section": "PS-22-00017",
+          "section_name": "Header Menu",
+          "section_type": "Menu",
+          "view_more_redirect_to": null,
+          "view_type": "",
+          "menus": [
+            {
+              "menu_label": "Home",
+              "redirect_url": "/",
+              "is_mega_menu": 0,
+              "no_of_column": 0,
+              "child_menu": []
+            },
+            {
+              "menu_label": "Resources",
+              "redirect_url": "",
+              "is_mega_menu": 0,
+              "no_of_column": 0,
+              "child_menu": [
+                {
+                  "menu_label": "IRS Refunds",
+                  "redirect_url": "p/irs-refunds",
+                  "icon": null,
+                  "mega_m_col_index": 0,
+                  "child_menu": []
+                }
+              ]
+            },
+            {
+              "menu_label": "FAQ",
+              "redirect_url": "p/faq",
+              "is_mega_menu": 0,
+              "no_of_column": 0,
+              "child_menu": []
+            },
+            {
+              "menu_label": "Pricing",
+              "redirect_url": "p/pricing",
+              "is_mega_menu": 0,
+              "no_of_column": 0,
+              "child_menu": []
+            },
+            {
+              "menu_label": "Contact Us",
+              "redirect_url": "/contact-us",
+              "is_mega_menu": 0,
+              "no_of_column": 0,
+              "child_menu": []
+            }
+          ]
+        },
+        {
+          "class_name": "mlnfjnxl",
+          "column_index": 2,
+          "content_type": "",
+          "defalut_profile": "",
+          "dynamic_data": 1,
+          "is_full_width": 0,
+          "layout_json": null,
+          "login_required": 0,
+          "message_icon": "",
+          "mobile_app_template": null,
+          "no_of_records": 0,
+          "notification_icon": "",
+          "profile_menu": [
+            {
+              "idx": 1,
+              "menu_name": "Dashboard",
+              "redirect_url": "/dashboard"
+            },
+            {
+              "idx": 2,
+              "menu_name": "Service Request",
+              "redirect_url": "/my-tickets"
+            },
+            {
+              "idx": 3,
+              "menu_name": "Document Vault",
+              "redirect_url": "/vault"
+            },
+            {
+              "idx": 4,
+              "menu_name": "Invite & Earn",
+              "redirect_url": "/referral"
+            },
+            {
+              "idx": 5,
+              "menu_name": "Search Tickets",
+              "redirect_url": "/all-tickets"
+            },
+            {
+              "idx": 6,
+              "menu_name": "Change Password"
+            },
+            {
+              "idx": 7,
+              "menu_name": "Logout"
+            }
+          ],
+          "reference_document": null,
+          "section": "PS-22-00018",
+          "section_name": "Header Profile Info",
+          "section_type": "Static Section",
+          "view_more_redirect_to": null,
+          "view_type": ""
+        }
+      ]
+    },
+    "footer_content": {
+      "title": "99Tax Website Footer",
+      "enable_link_icon": 0,
+      "layout_json": "[{\"fullwidth\":true,\"columns\":[{\"width\":\"30%\",\"rows\":[]},{\"width\":\"70%\",\"rows\":[]}]}]",
+      "enable_copyright": 1,
+      "copyright_layout": "Two Column",
+      "fc_ct_type": "Custom",
+      "cp_fc_alignment": "Left",
+      "sc_ct_type": "Custom",
+      "cp_sc_alignment": "Right",
+      "cp_fc_content": "@2023 <a href=\"#\"><strong>99Tax.com</strong></a>. All Rights Reserved.",
+      "cp_sc_content": "Powered by <a href=\"https://tridotstech.com/\"><strong>Tridotstech</strong></a>",
+      "items": [
+        {
+          "column_index": 0,
+          "items": [
+            {
+              "address":"#15/5, 3rd  Avenue, Ashok Nagar,Chennai - 83",
+              "address_icon":"/icons/tool.png",
+              "class_name": "cpqqgjla",
+              "column_index": 0,
+              "content": "Simplify your tax filing process with 99tax.com - your one-stop solution for affordable and accurate tax services\n\n",
+              "content_type": "",
+              "email":"INFO@SRELECTRCALS.CO",
+              "email_icon":"/icons/mail.png",
+              "mobile":"+91 9994241630",
+              "mobile_icon":"/icons/telephone.png",
+              "dynamic_data": 1,
+              "is_full_width": 0,
+              "layout_json": null,
+              "login_required": 0,
+              "logo": "https://st3.depositphotos.com/5040187/19111/v/450/depositphotos_191119630-stock-illustration-logo-swoosh-ellipse-red-letter.jpg",
+              "mobile_app_template": null,
+              "no_of_records": 0,
+              "reference_document": null,
+              "section": "PS-22-00004",
+              "section_name": "Footer About",
+              "section_type": "Static Section",
+              "view_more_redirect_to": null,
+              "view_type": ""
+            }
+          ]
+        },
+        {
+          "column_index": 1,
+          "items": [
+            {
+              "class_name": "zutjyzaw",
+              "column_index": 1,
+              "content_type": "",
+              "dynamic_data": 0,
+              "is_full_width": 0,
+              "layout_json": null,
+              "login_required": 0,
+              "mobile_app_template": null,
+              "no_of_records": 0,
+              "reference_document": null,
+              "section": "PS-22-00005",
+              "section_name": "Menu",
+              "section_type": "Menu",
+              "title": "Quick Links",
+              "view_more_redirect_to": null,
+              "view_type": "",
+              "menus": [
+                {
+                  "menu_label": "Home",
+                  "redirect_url": "/"
+                },
+                {
+                  "menu_label": "Services",
+                  "redirect_url": "/services"
+                },
+                {
+                  "menu_label": "Projects",
+                  "redirect_url": "/projects"
+                },
+                {
+                  "menu_label": "About Us",
+                  "redirect_url": "/about-us"
+                },
+                {
+                  "menu_label": "Gallery",
+                  "redirect_url": "/gallery"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "column_index": 2,
+          "items": [
+            {
+              "class_name": "cjrjbckh",
+              "column_index": 2,
+              "content_type": "",
+              "dynamic_data": 0,
+              "is_full_width": 0,
+              "layout_json": null,
+              "login_required": 0,
+              "mobile_app_template": null,
+              "no_of_records": 0,
+              "reference_document": null,
+              "section": "PS-23-00037",
+              "section_name": "Social Links",
+              "section_type": "Static Section",
+              "social_links": [
+                {
+                  "icon": "/social_icons/facebook.png",
+                  "idx": 1,
+                  "link_url": "#",
+                  "type": "Facebook"
+                },
+                {
+                  "icon": "/social_icons/twitter.png",
+                  "idx": 2,
+                  "link_url": "#",
+                  "type": "Twitter"
+                },
+                {
+                  "icon": "/social_icons/instagram.png",
+                  "idx": 3,
+                  "link_url": "#",
+                  "type": "Instagram"
+                },
+                {
+                  "icon": "/social_icons/linkedin.png",
+                  "idx": 3,
+                  "link_url": "#",
+                  "type": "Linkedin"
+                }
+              ],
+              "view_more_redirect_to": null,
+              "view_type": ""
+            }
+          ]
+        }
+      ],
+      "layout_json_data": [
+        {
+          "fullwidth": true,
+          "columns": [
+            {
+              "width": "30%",
+              "rows": []
+            },
+            {
+              "width": "70%",
+              "rows": []
+            }
+          ]
+        }
+      ]
+    }
+  }

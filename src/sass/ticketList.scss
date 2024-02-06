@@ -1,0 +1,33 @@
+@import url('./global.scss');
+
+$White:#ffffff;
+$border:1px solid #d8d8d8;
+$background:#f3f3f3;    
+.ticket_container{
+    width: 90%;
+    margin: 20px auto;
+    background-color: var(--background);
+    .add_button{
+        border-radius: 15px !important;
+    }
+    .table_headng,.table_row{
+        display: grid;  
+        row-gap: 5px;
+        margin-top: 10px; 
+        padding-inline: 10px;
+    }
+    .table_row{
+        background-color: var(--whitw);
+        border: var(--background); 
+    }
+    .title{
+        font-size: 18px;
+    }
+    head{
+        font-size: 14px;
+    }
+    .t_data{
+        font-size: 14px;
+    }
+
+}

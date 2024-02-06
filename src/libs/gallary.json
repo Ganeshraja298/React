@@ -1,0 +1,48 @@
+{
+
+    "side_menu": null,
+    "list_content": null,
+    "list_style": null,
+    "page_type": "Regular",
+    "page_content": [
+      {
+        "back_image": "",
+        "bg_image": "https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+        "btn": "{\"btn_text\":\"Get Full Service for $99 Only\",\"btn_redirect_url\":\"/p/pricing\"}",
+        "btn1": "{\"btn_text\":\"\",\"btn_redirect_url\":\"\"}",
+        "class_name": "kclscpul",
+        "content": "Guaranteed, your committed tax professional will locate every amount you are due.\r\n",
+        "content_type": "",
+        "data":[{
+            "original":"../../assets/gallary/IMG-20231018-WA0003.jpg",
+            "thumbnail":"../../assets/gallary/IMG-20231018-WA0003.jpg"
+        },{
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "original":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png"
+        },{
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "original":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png"
+        },{
+            "thumbnail":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png",
+            "original":"https://cdn.pixabay.com/photo/2021/06/06/19/51/superman-6316238_1280.png"
+        }],
+        "dynamic_data": 1,
+        "front_image": "/files/IRS Refunds (1)-01.svg",
+        "is_full_width": 0,
+        "layout_json": null,
+        "login_required": 0,
+        "mobile_app_template": null,
+        "no_of_records": 0,
+        "reference_document": null,
+        "section": "PS-23-00007",
+        "section_name": "Gallery",
+        "section_type": "Static Section",
+        "sub_title": "Lorem Ipsum  ",
+        "title": "Lorem Ipsum is simply dummy text of the",
+        "title1": " printing",
+        "title2": "and typesetting industry.",
+        "view_more_redirect_to": null,
+        "view_type": ""
+      }
+    ]
+  }

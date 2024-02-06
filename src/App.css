@@ -1,0 +1,49 @@
+.image-gallery-image {
+  max-height: calc(80vh - 80px)!important;
+}
+
+/* Tags */
+*{
+  font-family: 'Inter', sans-serif; 
+}
+h1,h2,h3,h4,h5,h6{
+  margin: 0;
+}
+a{
+   color: black;
+   font-size: 14px;
+}
+a:hover{
+  color: #4285f4 ;
+}
+/* Main Class */
+.d_flex{
+  display: flex;
+  align-items: center;
+}
+.d_flex_s{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.primary_color{
+  color: #4285f4;
+}
+/* Header */
+.header_container{
+  position: sticky;
+  top: 0px;
+  background-color: #ffffff;
+  z-index: 10;
+}
+
+/* ProductList */
+
+.box{
+  flex-wrap: wrap ;
+  width: 100%;
+}
+.slide{
+  width:100%;
+  overflow:auto;
+}
